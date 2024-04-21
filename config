@@ -1,8 +1,4 @@
-deploy_password=X32023EKzU=
-mysql_root_password=zuSd9mHPXn3202SxrgZ8CojW+5MQtJg=
-db_pass=S3202m097dS=
-jwt_secret=uSd9mHPXnSxrgZ8Co
-jwt_refresh_secret=uSd9mHPXnSxrgZ8Co
-deploy_email=deploy@whatstalk.com.br
-db_user=root
-db_name=whaticket
+DATABASE_HOST=ep-white-forest-a21dwqgs.eu-central-1.pg.koyeb.app
+DATABASE_USER=koyeb-adm
+DATABASE_PASSWORD=EpbnotC9ITB5
+DATABASE_NAME=koyebdb
